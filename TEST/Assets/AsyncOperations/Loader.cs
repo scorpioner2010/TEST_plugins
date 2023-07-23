@@ -25,7 +25,10 @@ namespace AsyncOperations
                 Task f = Task.WhenAny(t1, t2, t3);
                 await f;
             }
-            
+        }
+
+        private async void Start()
+        {
             Task c = Demo2();
             await c;
 

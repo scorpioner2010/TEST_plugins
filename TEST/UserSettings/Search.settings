@@ -8,46 +8,11 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"picker_window_position_offset.0B486DF2" = "50;96;320;550"
-	"picker_search_text.0B486DF2" = ""
-	"last_search.0B486DF2" = ""
-	"OpenInspectorPreview.0B486DF2" = "0"
-	"currentGroup.0B486DF2" = null
 }
 providers = {
-	asset = {
-		active = true
-		priority = 25
-		defaultAction = null
-	}
 	adb = {
 		active = false
 		priority = 2500
-		defaultAction = null
-	}
-	packages = {
-		active = true
-		priority = 90
-		defaultAction = null
-	}
-	profilermarkers = {
-		active = false
-		priority = 100
-		defaultAction = null
-	}
-	performance = {
-		active = false
-		priority = 100
-		defaultAction = null
-	}
-	find = {
-		active = true
-		priority = 25
-		defaultAction = null
-	}
-	scene = {
-		active = true
-		priority = 50
 		defaultAction = null
 	}
 	log = {
@@ -55,14 +20,39 @@ providers = {
 		priority = 210
 		defaultAction = null
 	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
 	store = {
 		active = true
 		priority = 100
 		defaultAction = null
 	}
-	presets_provider = {
+	profilermarkers = {
 		active = false
-		priority = -10
+		priority = 100
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
 		defaultAction = null
 	}
 }
