@@ -1,6 +1,7 @@
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Cysharp.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -14,50 +15,36 @@ namespace AsyncOperations
         {
             if (GUI.Button(new Rect(100, 100, 100, 100), "1"))
             {
-                //Demo1();
-                
-                Debug.LogError("start");
-                float time = Time.time;
-                
                 Task t3 = Task.Delay(700);
-                
                 Task t1 = Task.Delay(1000).ContinueWith((c) =>
                 {
-                    Debug.LogError("Nero");
-                    sprite.gameObject.SetActive(false); //111
-                },TaskScheduler.FromCurrentSynchronizationContext());//111
+                    sprite.gameObject.SetActive(false);
+                },TaskScheduler.FromCurrentSynchronizationContext());
                 
                 Task t2 = Task.Delay(1900);
-                
-
-                //Task f = Task.WhenAll(t1, t2, t3);
-                
                 Task f = Task.WhenAny(t1, t2, t3);
-                
                 await f;
-                
-                
-                Debug.LogError("result: "+(Time.time - time));
             }
             
-            /*
-            if (GUI.Button(new Rect(100, 300, 100, 100), "2"))
-            {
-                //await Demo2();
-            }*/
+            Task c = Demo2();
+            await c;
+
+            Demo1();
+
+            UniTask<int> result = Demo3();
+            await result;
         }
 
-        /*
-        private unsafe void Test1()
+
+        private async UniTask<int> Demo3()
         {
-            Action a = () => { };
+            await Task.Delay(100);
 
-               lock (a)
-               {
-                   Debug.LogError(1);
-               }
+            return 1;
         }
-        */
+
+        //private unsafe void Test1() { Action a = () => { }; lock (a) { Debug.LogError(1);} }
+        
 
         private async void Demo1()
         {
