@@ -19,9 +19,9 @@ public class Geter : MonoBehaviour
             return;
         }
         
-        Product product = player.GetElement<Product1>();
+        Product product = player.GetProduct<Product1>();
         
-        if (isSend == false && player.ElementsCount > 0 && product != null)
+        if (isSend == false && player.elementsCount > 0 && product != null)
         {
             Send(player, product);
         }
@@ -40,7 +40,7 @@ public class Geter : MonoBehaviour
                 
             if (Vector3.Distance(getre.position, product.transform.position) < 0.05)
             {
-                player.Remove(product);
+                player.RemoveProduct(product);
                 Destroy(product.gameObject);
                 isSend = false;
                 OnComplete?.Invoke();

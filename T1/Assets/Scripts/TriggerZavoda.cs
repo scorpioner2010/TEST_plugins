@@ -16,7 +16,7 @@ public class TriggerZavoda : MonoBehaviour
             return;
         }
         
-        if (isSend == false && player.IsGet())
+        if (isSend == false && player.IsFull())
         {
             TryGet(player);
         }
@@ -43,7 +43,7 @@ public class TriggerZavoda : MonoBehaviour
                 if (Vector3.Distance(player.bag.position, product.transform.position) < 0.05)
                 {
                     readyProducts.Remove(product);
-                    player.Add(product);
+                    player.AddProduct(product);
                     isSend = false;
                     tweener.Kill();
                 }

@@ -16,9 +16,9 @@ public class Market : Geter
             return;
         }
         
-        Product product = player.GetElement<Product2>();
+        Product product = player.GetProduct<Product2>();
         
-        if (isSend == false && player.ElementsCount > 0 && product != null)
+        if (isSend == false && player.elementsCount > 0 && product != null)
         {
             Send(player, product);
         }
