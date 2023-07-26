@@ -4,3 +4,6 @@ TEST/Library/
 TEST/Logs/
 T1/Library/
 T1/Logs/
+PUN_TEST/Library
+PUN_TEST/.idea
+PUN_TEST_clone_0/Library
