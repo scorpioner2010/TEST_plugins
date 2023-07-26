@@ -1,5 +1,6 @@
 using Photon.Pun;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class PlayerInput : MonoBehaviourPun
 {
@@ -7,6 +8,7 @@ public class PlayerInput : MonoBehaviourPun
     public float speedMove = 1000;
     private Vector3 _dir;
     public Vector3 lastDirectionRotate;
+    public bool isMove;
 
     public PlayerAnimator animator;
 
@@ -28,13 +30,8 @@ public class PlayerInput : MonoBehaviourPun
         
         if (rb.velocity.magnitude > 1f)
         {
-            animator.SetAnimation("Run");
             lastDirectionRotate = _dir;
             animator.anim.transform.LookAt(lastDirectionRotate + transform.position);
-        }
-        else
-        {
-            animator.SetAnimation("Idle");
         }
     }
     
@@ -44,8 +41,8 @@ public class PlayerInput : MonoBehaviourPun
         {
             return;
         }
-        
-        
+
+        isMove = _dir != Vector3.zero;
         _dir = Vector3.zero;
         
         if (Input.GetKey(KeyCode.W))

@@ -82,6 +82,7 @@
      <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Helpers/FStringMethods.cs" />
      <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Physics/FImp_ColliderData_Base.cs" />
      <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Gizmos.cs" />
+     <Compile Include="Assets/Scripts/AnimationState.cs" />
      <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_SuffixAttribute.cs" />
      <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Class.Bone.Vibration.cs" />
      <Compile Include="Assets/Scripts/TorasLibrary/Mover.cs" />
@@ -259,10 +260,8 @@
      <None Include="Assets/Photon/PhotonChat/Demos/DemoChat/Files/eurof_tt.txt" />
      <Folder Include="Assets/TextMesh Pro/Shaders" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Gizmos" />
-     <Folder Include="Assets/Art/Player" />
      <Folder Include="Library/PackageCache/com.unity.collab-proxy@2.0.5" />
      <Folder Include="Assets/Photon/PhotonChat/Demos/Common" />
-     <Folder Include="Assets/Art" />
      <Folder Include="Assets/TextMesh Pro/Resources/Style Sheets" />
      <Folder Include="Assets/TextMesh Pro/Fonts" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.0.7/Content/Shader/ProBuilderCG.cginc" />
@@ -288,7 +287,6 @@
      <None Include="Library/PackageCache/com.unity.probuilder@5.0.7/Content/Shader/StandardVertexColor.shader" />
      <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Tests" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_Properties.cginc" />
-     <Folder Include="Assets/Art/Player/Base" />
      <None Include="Library/PackageCache/com.unity.probuilder@5.0.7/Content/Shader/PointBillboard.shader" />
      <Folder Include="Assets/Scenes" />
      <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF Internal Editor.shader" />
@@ -327,7 +325,6 @@
      <Folder Include="Assets/Photon/PhotonLibs/netstandard2.0" />
      <None Include="Assets/Photon/PhotonUnityNetworking/link.xml" />
      <None Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/MathHelpers - ReadMe.txt" />
-     <Folder Include="Assets/ProBuilder Data" />
      <Folder Include="Assets/Photon/PhotonLibs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
      <Folder Include="Assets/FImpossible Creations/Plugins - Shared" />

@@ -82,6 +82,7 @@
      <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Helpers/FStringMethods.cs" />
      <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Physics/FImp_ColliderData_Base.cs" />
      <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Gizmos.cs" />
+     <Compile Include="Assets/Scripts/AnimationState.cs" />
      <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_SuffixAttribute.cs" />
      <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Class.Bone.Vibration.cs" />
      <Compile Include="Assets/Scripts/TorasLibrary/Mover.cs" />

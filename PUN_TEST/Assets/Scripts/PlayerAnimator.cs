@@ -1,21 +1,36 @@
+using System;
+using Photon.Pun;
 using UnityEngine;
 
-public class PlayerAnimator : MonoBehaviour
+public class PlayerAnimator : MonoBehaviourPun
 {
     public Animator anim;
-    public string lastAnim = "Idle";
+    public AnimationState lastAnim = AnimationState.Idle;
+    private PlayerInput _input;
 
     private void Awake()
     {
         anim = GetComponentInChildren<Animator>();
+        _input = GetComponent<PlayerInput>();
     }
 
-    public void SetAnimation(string nameAnim)
+    private void Update()
     {
-        if (nameAnim != lastAnim)
+        if (photonView.IsMine)
         {
-            anim.SetTrigger(nameAnim);
-            lastAnim = nameAnim;
+            AnimationSelector();
+        }
+    }
+
+    private void AnimationSelector()
+    {
+        AnimationState animationState = _input.isMove ? AnimationState.Run : AnimationState.Idle;
+
+        if (lastAnim != animationState)
+        {
+            lastAnim = animationState;
+            string trigger = lastAnim.ToString();
+            anim.SetTrigger(trigger);
         }
     }
 }
