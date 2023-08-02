@@ -27,8 +27,8 @@ public class PlayerInput : MonoBehaviourPun
         
         _dir = _dir.normalized * Time.fixedDeltaTime * speedMove;
         rb.velocity = new Vector3(_dir.x, rb.velocity.y, _dir.z);
-        
-        if (rb.velocity.magnitude > 1f)
+        Vector3 c = new Vector3(rb.velocity.x, 0, rb.velocity.z);
+        if (c.magnitude > 1f)
         {
             lastDirectionRotate = _dir;
             animator.anim.transform.LookAt(lastDirectionRotate + transform.position);

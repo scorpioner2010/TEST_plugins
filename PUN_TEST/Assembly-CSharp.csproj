@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2022_3_5;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2022_3_5;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -41,961 +41,988 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
-    <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
+    <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll" />
+    <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Procedural\FMuscles.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\FEditor_OneShotLog.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_TabAttribute.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Logics.Squeeze.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Math\FLogicMethods.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.EditorRelated.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Settings.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\FDebug_PerformanceTest.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\AppSettingsExtensions.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Misc.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Math\FEngineering.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Logics.Muscles.cs" />
-     <Compile Include="Assets\Scripts\GameCamera.cs" />
-     <Compile Include="Assets\Scripts\TorasLibrary\FreeCam.cs" />
-     <Compile Include="Assets\Scripts\TorasLibrary\GameplayAssistant.cs" />
-     <Compile Include="Assets\Scripts\PlayerPivot.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.ExtraProcessing.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_FoldFrameAttribute.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Logics.Collision.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Helpers\FColorMethods.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_DrawTextureAttribute.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Physics\FImp_ColliderData_Capsule.cs" />
-     <Compile Include="Assets\Scripts\TorasLibrary\ValueTimeUpdater.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChannelSelector.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Logics.Vibrate.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Procedural\FElasticTransform.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\TextToggleIsOnTransition.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\FriendItem.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Class.Bone.Muscles.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Helpers\FDebug.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_FixedCurveWindowAttribute.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers\FGUI_Inspector.cs" />
-     <Compile Include="Assets\Scripts\PhotonGameManager.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\FHierarchyIcons.cs" />
-     <Compile Include="Assets\Photon\PhotonLibs\WebSocket\SocketWebTcp.cs" />
-     <Compile Include="Assets\Scripts\GameplayController.cs" />
-     <Compile Include="Assets\Scripts\TorasLibrary\CoroutineUpdater.cs" />
-     <Compile Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Animating\FAnimatorMethods.cs" />
-     <Compile Include="Assets\Scripts\GamePlayer.cs" />
-     <Compile Include="Assets\Scripts\PlayerInput.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Physics\FImp_ColliderData_Terrain.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_PercentageAttribute.cs" />
-     <Compile Include="Assets\Scripts\MenuManager.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\FEditor_Handles.cs" />
-     <Compile Include="Assets\Scripts\TorasLibrary\EventBool.cs" />
-     <Compile Include="Assets\Scripts\ConnectionStatus.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\BonesStimulator.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_MiscAttributes.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\OnStartDelete.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChatGui.cs" />
-     <Compile Include="Assets\Photon\PhotonLibs\WebSocket\WebSocket.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers\FGUI_Handles.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Class.Bone.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_HideOnBoolAttribute.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Math\FEasing.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\ChatAppIdCheckerUI.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Physics\FImp_ColliderData_Mesh.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Physics\FImp_ColliderData_Sphere.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Animating\FAnimationClips.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Utils\FBasic_Enums.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers\FGUI_Resources.cs" />
-     <Compile Include="Assets\Scripts\Player.cs" />
-     <Compile Include="Assets\Scripts\PlayerAnimator.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Math\FTransformMethods.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Helpers\FStringMethods.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Physics\FImp_ColliderData_Base.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_FoldableAttribute.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Gizmos.cs" />
-     <Compile Include="Assets\Scripts\AnimationState.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_MinMaxSliderAttribute.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_SuffixAttribute.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Class.Bone.Vibration.cs" />
-     <Compile Include="Assets\Scripts\TorasLibrary\Mover.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets\Behaviours\Character Controllers\FBasic_TestGroundMovement.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_HeaderAttribute.cs" />
-     <Compile Include="Assets\Scripts\Places.cs" />
-     <Compile Include="Assets\Scripts\TorasLibrary\Singleton.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Math\FVectorMethods.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\EventSystemSpawner.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Physics\FImp_ColliderData_Box.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\NamePickGui.cs" />
-     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\TextButtonTransition.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core\BonesStimulator.Preparations.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets\Behaviours\Cameras\FBasic_TPPCameraBehaviour.cs" />
-     <Compile Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers\FGUI_Finders.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Procedural/FMuscles.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/FEditor_OneShotLog.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_TabAttribute.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Logics.Squeeze.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Math/FLogicMethods.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.EditorRelated.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Settings.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/FDebug_PerformanceTest.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/AppSettingsExtensions.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Misc.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Math/FEngineering.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Logics.Muscles.cs" />
+     <Compile Include="Assets/Scripts/GameCamera.cs" />
+     <Compile Include="Assets/Scripts/TorasLibrary/FreeCam.cs" />
+     <Compile Include="Assets/Scripts/TorasLibrary/GameplayAssistant.cs" />
+     <Compile Include="Assets/Scripts/PlayerPivot.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.ExtraProcessing.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_FoldFrameAttribute.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Logics.Collision.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Helpers/FColorMethods.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_DrawTextureAttribute.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Physics/FImp_ColliderData_Capsule.cs" />
+     <Compile Include="Assets/Scripts/TorasLibrary/ValueTimeUpdater.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/ChannelSelector.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Logics.Vibrate.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Procedural/FElasticTransform.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/TextToggleIsOnTransition.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/FriendItem.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Class.Bone.Muscles.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Helpers/FDebug.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_FixedCurveWindowAttribute.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/IgnoreUiRaycastWhenInactive.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/GUI Helpers/FGUI_Inspector.cs" />
+     <Compile Include="Assets/Scripts/PhotonGameManager.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/FHierarchyIcons.cs" />
+     <Compile Include="Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs" />
+     <Compile Include="Assets/Scripts/GameplayController.cs" />
+     <Compile Include="Assets/Scripts/TorasLibrary/CoroutineUpdater.cs" />
+     <Compile Include="Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Animating/FAnimatorMethods.cs" />
+     <Compile Include="Assets/Scripts/GamePlayer.cs" />
+     <Compile Include="Assets/Scripts/PlayerInput.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Physics/FImp_ColliderData_Terrain.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_PercentageAttribute.cs" />
+     <Compile Include="Assets/Scripts/MenuManager.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/FEditor_Handles.cs" />
+     <Compile Include="Assets/Scripts/TorasLibrary/EventBool.cs" />
+     <Compile Include="Assets/Scripts/ConnectionStatus.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/BonesStimulator.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_MiscAttributes.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/OnStartDelete.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/ChatGui.cs" />
+     <Compile Include="Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/GUI Helpers/FGUI_Handles.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Class.Bone.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_HideOnBoolAttribute.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Math/FEasing.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/ChatAppIdCheckerUI.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Physics/FImp_ColliderData_Mesh.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Physics/FImp_ColliderData_Sphere.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Animating/FAnimationClips.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Utils/FBasic_Enums.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/GUI Helpers/FGUI_Resources.cs" />
+     <Compile Include="Assets/Scripts/Player.cs" />
+     <Compile Include="Assets/Scripts/PlayerAnimator.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Math/FTransformMethods.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Helpers/FStringMethods.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Physics/FImp_ColliderData_Base.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_FoldableAttribute.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Gizmos.cs" />
+     <Compile Include="Assets/Scripts/AnimationState.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_MinMaxSliderAttribute.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_SuffixAttribute.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Class.Bone.Vibration.cs" />
+     <Compile Include="Assets/Scripts/TorasLibrary/Mover.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/FBasic Assets/Behaviours/Character Controllers/FBasic_TestGroundMovement.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_HeaderAttribute.cs" />
+     <Compile Include="Assets/Scripts/Places.cs" />
+     <Compile Include="Assets/Scripts/TorasLibrary/Singleton.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Math/FVectorMethods.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/EventSystemSpawner.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/Physics/FImp_ColliderData_Box.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/NamePickGui.cs" />
+     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/TextButtonTransition.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core/BonesStimulator.Preparations.cs" />
+     <Compile Include="Assets/FImpossible Creations/Plugins - Shared/FBasic Assets/Behaviours/Cameras/FBasic_TPPCameraBehaviour.cs" />
+     <Compile Include="Assets/FImpossible Creations/Shared Tools/GUI Helpers/FGUI_Finders.cs" />
      <Folder Include="Assets" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
-     <None Include="Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.xml" />
-     <Folder Include="Assets\Settings" />
-     <Folder Include="Assets\Photon\PhotonChat\Demos" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-     <Folder Include="Assets\TextMesh Pro\Sprites" />
-     <Folder Include="Assets\Scripts" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Sprite Assets" />
-     <Folder Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes" />
-     <Folder Include="Assets\FImpossible Creations\Shared Tools" />
-     <None Include="Assets\Photon\PhotonUnityNetworking\changelog.txt" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets\Behaviours\Cameras" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-     <Folder Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing" />
-     <Folder Include="Assets\Prefabs" />
-     <Folder Include="Assets\Photon\PhotonUnityNetworking" />
-     <Folder Include="Assets\Sequences" />
-     <Folder Include="Assets\Sequences\NewMasterSequence" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\Core" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-     <Folder Include="Assets\TextMesh Pro\Resources" />
-     <Folder Include="Assets\Photon\PhotonRealtime\Demos" />
-     <Folder Include="Assets\Animations" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-     <Folder Include="Assets\Photon\PhotonRealtime" />
-     <Folder Include="Assets\TextMesh Pro" />
-     <Folder Include="Assets\Scenes\Game" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Utils" />
-     <Folder Include="Assets\Photon\PhotonChat\Demos\DemoChat\Files" />
-     <Folder Include="Assets\FImpossible Creations" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-     <Folder Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers" />
-     <Folder Include="Assets\Photon\PhotonLibs\Metro" />
-     <Folder Include="Assets\Photon" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-     <None Include="Assets\Photon\PhotonLibs\changes-library.txt" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-     <None Include="Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.deps.json" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-     <None Include="Assets\Photon\PhotonUnityNetworking\readme.txt" />
-     <None Include="Assets\Photon\PhotonChat\Demos\DemoChat\Files\eurof_tt.txt" />
-     <Folder Include="Assets\TextMesh Pro\Shaders" />
-     <Folder Include="Assets\Photon\PhotonChat\Demos\Common" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Style Sheets" />
-     <Folder Include="Assets\TextMesh Pro\Fonts" />
-     <Folder Include="Assets\Photon\PhotonChat" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Animating" />
-     <Folder Include="Assets\FImpossible Creations\Shared Tools\Editor Tools" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Animating" />
-     <Folder Include="Assets\Resources" />
-     <Folder Include="Assets\Photon\PhotonUnityNetworking\Icons" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets\Behaviours" />
-     <Folder Include="Assets\Scenes" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Helpers" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-     <None Include="Assets\Photon\PhotonLibs\Photon3Unity3D.xml" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Physics" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-     <None Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator\ReadMe - BonesStimulator.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-     <Folder Include="Assets\Photon\PhotonChat\Demos\DemoChat" />
-     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-     <Folder Include="Assets\TextMesh Pro\Documentation" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Math" />
-     <Folder Include="Assets\Photon\PhotonLibs\netstandard2.0" />
-     <None Include="Assets\Photon\PhotonUnityNetworking\link.xml" />
-     <None Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\MathHelpers - ReadMe.txt" />
-     <Folder Include="Assets\Photon\PhotonLibs" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared" />
-     <Folder Include="Assets\Photon\PhotonLibs\WebSocket" />
-     <Folder Include="Assets\Photon\PhotonUnityNetworking\Resources" />
-     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
-     <Folder Include="Assets\Scripts\TorasLibrary" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Animating\Bones Stimulator" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets\Behaviours\Character Controllers" />
-     <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Procedural" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/ReferenceUnlit.shader" />
+     <None Include="Library/PackageCache/com.unity.settings-manager@2.0.1/package.json" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
+     <Folder Include="Library/PackageCache/com.unity.test-framework@1.3.7" />
+     <None Include="Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.xml" />
+     <Folder Include="Assets/Settings" />
+     <Folder Include="Library/PackageCache/com.unity.searcher@4.9.2" />
+     <Folder Include="Assets/Photon/PhotonChat/Demos" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/NormalPreview.shader" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
+     <Folder Include="Library/PackageCache/com.unity.ext.nunit@2.0.3/net40/unity-custom" />
+     <Folder Include="Assets/TextMesh Pro/Sprites" />
+     <Folder Include="Assets/Scripts" />
+     <None Include="Library/PackageCache/com.unity.animation.rigging@1.2.1/package.json" />
+     <None Include="Library/PackageCache/com.unity.cinemachine@2.9.5/ValidationExceptions.json" />
+     <Folder Include="Assets/TextMesh Pro/Resources/Sprite Assets" />
+     <Folder Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes" />
+     <Folder Include="Assets/FImpossible Creations/Shared Tools" />
+     <None Include="Assets/Photon/PhotonUnityNetworking/changelog.txt" />
+     <None Include="Library/PackageCache/com.unity.ext.nunit@2.0.3/package.json" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/FBasic Assets/Behaviours/Cameras" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/DiffuseVertexColor.shader" />
+     <Folder Include="Library/PackageCache/com.unity.sequences@2.1.0" />
+     <Folder Include="Library/PackageCache/com.unity.ide.rider@3.0.24/Rider" />
+     <Folder Include="Library/PackageCache/com.unity.cinemachine@2.9.5" />
+     <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Tools/ShapeTool/on" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
+     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/package.json" />
+     <Folder Include="Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/LineBillboard.shader" />
+     <Folder Include="Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics" />
+     <Folder Include="Library/PackageCache/com.unity.burst@1.8.7/Tests" />
+     <Folder Include="Assets/Prefabs" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/VertexPicker.shader" />
+     <Folder Include="Assets/Photon/PhotonUnityNetworking" />
+     <Folder Include="Library/PackageCache/com.unity.cinemachine@2.9.5/Gizmos" />
+     <None Include="Library/PackageCache/com.unity.burst@1.8.7/ValidationConfig.json" />
+     <Folder Include="Assets/Sequences" />
+     <Folder Include="Assets/Sequences/NewMasterSequence" />
+     <None Include="Library/PackageCache/com.unity.timeline@1.8.2/package.json" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/Core" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/DiffuseTextureBlend.shader" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/LineBillboardMetal.shader" />
+     <Folder Include="Library/PackageCache/com.unity.animation.rigging@1.2.1" />
+     <Folder Include="Library/PackageCache/com.unity.recorder@4.0.1/Plugins/macOS" />
+     <Folder Include="Assets/TextMesh Pro/Resources/Fonts &amp; Materials" />
+     <Folder Include="Library/PackageCache/com.unity.visualscripting@1.8.0" />
+     <Folder Include="Library/PackageCache/com.autodesk.fbx@4.2.1/Tests" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
+     <None Include="Library/PackageCache/com.unity.mathematics@1.2.6/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Resources/Textures" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/ScrollHighlight.shader" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/UnlitSolidColor.shader" />
+     <Folder Include="Assets/TextMesh Pro/Resources" />
+     <Folder Include="Assets/Photon/PhotonRealtime/Demos" />
+     <None Include="Library/PackageCache/com.unity.visualscripting@1.8.0/package.json" />
+     <None Include="Library/PackageCache/com.unity.collab-proxy@2.0.7/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.recorder@4.0.1" />
+     <None Include="Library/PackageCache/com.autodesk.fbx@4.2.1/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.timeline@1.8.2" />
+     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/PackageConversionData.json" />
+     <Folder Include="Library/PackageCache/com.unity.recorder@4.0.1/Plugins/Linux" />
+     <Folder Include="Library/PackageCache/com.unity.ext.nunit@2.0.3" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/TransparentOverlay.shader" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/UnlitVertexColor.shader" />
+     <Folder Include="Assets/Animations" />
+     <Folder Include="Library/PackageCache/com.unity.burst@1.8.7" />
+     <Folder Include="Library/PackageCache/com.unity.cinemachine@2.9.5/Tests" />
+     <None Include="Library/PackageCache/com.unity.recorder@4.0.1/package.json" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
+     <Folder Include="Assets/Photon/PhotonRealtime" />
+     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/ValidationExceptions.json" />
+     <Folder Include="Library/PackageCache/com.autodesk.fbx@4.2.1" />
+     <Folder Include="Assets/TextMesh Pro" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Tools/PolyShape" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Cursors" />
+     <None Include="Library/PackageCache/com.unity.ide.rider@3.0.24/package.json" />
+     <None Include="Library/PackageCache/com.unity.searcher@4.9.2/package.json" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/EdgePicker.shader" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Resources/Materials" />
+     <Folder Include="Assets/Scenes/Game" />
+     <None Include="Library/PackageCache/com.unity.test-framework@1.3.7/package.json" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/VertexShader.shader" />
+     <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts" />
+     <Folder Include="Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/Utils" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/UVEditor" />
+     <Folder Include="Assets/Photon/PhotonChat/Demos/DemoChat/Files" />
+     <Folder Include="Assets/FImpossible Creations" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
+     <None Include="Library/PackageCache/com.unity.visualscripting@1.8.0/ValidationExceptions.json" />
+     <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Upgrade/AssetIdRemap-4_0_0.json" />
+     <Folder Include="Library/PackageCache/com.unity.settings-manager@2.0.1" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF.shader" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Resources" />
+     <Folder Include="Assets/FImpossible Creations/Shared Tools/GUI Helpers" />
+     <Folder Include="Assets/Photon/PhotonLibs/Metro" />
+     <Folder Include="Assets/Photon" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/FacePicker.shader" />
+     <None Include="Assets/Photon/PhotonLibs/changes-library.txt" />
+     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/SmoothingPreview.shader" />
+     <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
+     <None Include="Library/PackageCache/com.unity.cinemachine@2.9.5/license.txt" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.mathematics@1.2.6" />
+     <None Include="Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.deps.json" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
+     <None Include="Assets/Photon/PhotonUnityNetworking/readme.txt" />
+     <None Include="Assets/Photon/PhotonChat/Demos/DemoChat/Files/eurof_tt.txt" />
+     <Folder Include="Assets/TextMesh Pro/Shaders" />
+     <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Gizmos" />
+     <Folder Include="Library/PackageCache/com.unity.collab-proxy@2.0.7" />
+     <Folder Include="Assets/Photon/PhotonChat/Demos/Common" />
+     <Folder Include="Assets/TextMesh Pro/Resources/Style Sheets" />
+     <Folder Include="Assets/TextMesh Pro/Fonts" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/ProBuilderCG.cginc" />
+     <None Include="Library/PackageCache/com.unity.cinemachine@2.9.5/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Tools/ShapeTool" />
+     <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6" />
+     <Folder Include="Assets/Photon/PhotonChat" />
+     <Folder Include="Library/PackageCache/com.unity.ide.rider@3.0.24" />
+     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Animating" />
+     <Folder Include="Assets/FImpossible Creations/Shared Tools/Editor Tools" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Modes" />
+     <Folder Include="Library/PackageCache/com.unity.searcher@4.9.2/Tests" />
+     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF_SSD.cginc" />
+     <None Include="Library/PackageCache/com.unity.sequences@2.1.0/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Toolbar/Background" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Toolbar" />
+     <None Include="Library/PackageCache/com.unity.collab-proxy@2.0.7/ValidationConfig.json" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Animating" />
+     <Folder Include="Assets/Resources" />
+     <Folder Include="Assets/Photon/PhotonUnityNetworking/Icons" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/FBasic Assets/Behaviours" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/StandardVertexColor.shader" />
+     <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Tests" />
+     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_Properties.cginc" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/PointBillboard.shader" />
+     <Folder Include="Assets/Scenes" />
+     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders/TMP_SDF Internal Editor.shader" />
+     <Folder Include="Library/PackageCache/com.unity.cinemachine@2.9.5/Presets" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Helpers" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
+     <None Include="Library/PackageCache/com.unity.formats.fbx@4.2.1/package.json" />
+     <Folder Include="Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib" />
+     <None Include="Library/PackageCache/com.unity.visualscripting@1.8.0/ValidationConfig.json" />
+     <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Shaders" />
+     <Folder Include="Library/PackageCache/com.unity.settings-manager@2.0.1/Content" />
+     <Folder Include="Library/PackageCache/com.unity.recorder@4.0.1/Plugins" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Scripts" />
+     <None Include="Assets/Photon/PhotonLibs/Photon3Unity3D.xml" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Scene" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/Physics" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
+     <Folder Include="Library/PackageCache/com.unity.formats.fbx@4.2.1" />
+     <None Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/PackageConversionData_Assets.json" />
+     <None Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator/ReadMe - BonesStimulator.txt" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/External" />
+     <Folder Include="Assets/Photon/PhotonChat/Demos/DemoChat" />
+     <None Include="Library/PackageCache/com.autodesk.fbx@4.2.1/ValidationExceptions.json" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Upgrade" />
+     <None Include="Library/PackageCache/com.unity.mathematics@1.2.6/ValidationExceptions.json" />
+     <Folder Include="Library/PackageCache/com.unity.textmeshpro@3.0.6/Package Resources" />
+     <None Include="Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
+     <Folder Include="Library/PackageCache/com.autodesk.fbx@4.2.1/Tests/Runtime" />
+     <Folder Include="Assets/TextMesh Pro/Documentation" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/AssetIdRemapUtility" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/Math" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Icons/Tools" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Material" />
+     <Folder Include="Assets/Photon/PhotonLibs/netstandard2.0" />
+     <None Include="Assets/Photon/PhotonUnityNetworking/link.xml" />
+     <None Include="Assets/FImpossible Creations/Plugins - Shared/Math Helpers/MathHelpers - ReadMe.txt" />
+     <Folder Include="Assets/Photon/PhotonLibs" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared" />
+     <None Include="Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.Unsafe.xml" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/SelectionPicker.shader" />
+     <Folder Include="Assets/Photon/PhotonLibs/WebSocket" />
+     <Folder Include="Assets/Resources/Materials" />
+     <Folder Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Material/Textures" />
+     <None Include="Library/PackageCache/com.unity.burst@1.8.7/package.json" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/FaceHighlight.shader" />
+     <Folder Include="Assets/Photon/PhotonUnityNetworking/Resources" />
+     <Folder Include="Library/PackageCache/com.unity.cinemachine@2.9.5/Presets/Noise" />
+     <None Include="Assets/TextMesh Pro/Sprites/EmojiOne.json" />
+     <Folder Include="Assets/Scripts/TorasLibrary" />
+     <Folder Include="Library/PackageCache/com.unity.settings-manager@2.0.1/Tests" />
+     <Folder Include="Library/PackageCache/com.unity.ext.nunit@2.0.3/net40" />
+     <None Include="Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
+     <None Include="Library/PackageCache/com.unity.probuilder@5.1.0/Content/Shader/HideVertices.shader" />
+     <Folder Include="Library/PackageCache/com.unity.recorder@4.0.1/Plugins/Windows" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/FBasic Assets" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Animating/Bones Stimulator" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/FBasic Assets/Behaviours/Character Controllers" />
+     <Folder Include="Assets/FImpossible Creations/Plugins - Shared/Procedural" />
      <Reference Include="UnityEngine">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.AIModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ARModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ARModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.AccessibilityModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.AndroidJNIModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.AndroidJNIModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.AnimationModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AnimationModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.AssetBundleModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.AudioModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AudioModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ClothModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ClusterInputModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ClusterRendererModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ContentLoadModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ContentLoadModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.CoreModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.CrashReportingModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.DSPGraphModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.DSPGraphModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.DirectorModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.DirectorModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.GIModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.GIModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GIModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.GameCenterModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GameCenterModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.GridModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GridModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.HotReloadModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.HotReloadModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.IMGUIModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.IMGUIModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ImageConversionModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.InputModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.InputModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.InputLegacyModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputLegacyModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.JSONSerializeModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.LocalizationModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.LocalizationModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.LocalizationModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ParticleSystemModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.PerformanceReportingModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.PhysicsModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PhysicsModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Physics2DModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.Physics2DModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ProfilerModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ProfilerModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ProfilerModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.PropertiesModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.PropertiesModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PropertiesModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ScreenCaptureModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.SharedInternalsModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.SpriteMaskModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.SpriteShapeModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.StreamingModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.StreamingModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.StreamingModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.SubstanceModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubstanceModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.SubsystemsModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubsystemsModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TLSModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TLSModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TerrainModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TerrainPhysicsModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TextCoreFontEngineModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TextCoreTextEngineModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TextRenderingModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TilemapModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TilemapModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UIModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UIElementsModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIElementsModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UmbraModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UmbraModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityAnalyticsModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityConnectModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityCurlModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityCurlModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityTestProtocolModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityWebRequestModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityWebRequestAudioModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityWebRequestTextureModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UnityWebRequestWWWModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.VFXModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.VFXModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VFXModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.VRModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VRModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.VehiclesModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VehiclesModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.VideoModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.VirtualTexturingModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.WindModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.XRModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.CoreModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.CoreModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.DeviceSimulatorModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.DeviceSimulatorModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.DiagnosticsModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.DiagnosticsModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.EditorToolbarModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.EditorToolbarModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.EditorToolbarModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.GraphViewModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.GraphViewModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.GraphViewModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.PresetsUIModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.PresetsUIModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.PresetsUIModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.QuickSearchModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.QuickSearchModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.SceneTemplateModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneTemplateModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.SceneViewModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneViewModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.SceneViewModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.TextCoreFontEngineModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextCoreFontEngineModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.TextCoreTextEngineModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextCoreTextEngineModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UIBuilderModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIBuilderModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UIElementsModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UIElementsModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UIElementsSamplesModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsSamplesModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UnityConnectModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\PackageCache\com.unity.ext.nunit@2.0.3\net40\unity-custom\nunit.framework.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/PackageCache/com.unity.ext.nunit@2.0.3/net40/unity-custom/nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="websocket-sharp">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Assets\Photon\PhotonLibs\WebSocket\websocket-sharp.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
      </Reference>
      <Reference Include="DOTween">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Photon3Unity3D">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEditor.iOS.Extensions.Common">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Android.Types">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Android.Gradle">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Android.GradleProject">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/PlaybackEngines/AndroidPlayer/Unity.Android.GradleProject.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
      </Reference>
      <Reference Include="Microsoft.Win32.Primitives">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\Microsoft.Win32.Primitives.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll</HintPath>
      </Reference>
      <Reference Include="System.AppContext">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.AppContext.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll</HintPath>
      </Reference>
      <Reference Include="System.Buffers">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Buffers.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll</HintPath>
      </Reference>
      <Reference Include="System.Collections.Concurrent">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.Concurrent.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Collections">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll</HintPath>
      </Reference>
      <Reference Include="System.Collections.NonGeneric">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.NonGeneric.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll</HintPath>
      </Reference>
      <Reference Include="System.Collections.Specialized">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.Specialized.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll</HintPath>
      </Reference>
-     <Reference Include="System.ComponentModel">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.dll</HintPath>
+     <Reference Include="System.Collections">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll</HintPath>
      </Reference>
      <Reference Include="System.ComponentModel.EventBasedAsync">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.EventBasedAsync.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll</HintPath>
      </Reference>
      <Reference Include="System.ComponentModel.Primitives">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.Primitives.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll</HintPath>
      </Reference>
      <Reference Include="System.ComponentModel.TypeConverter">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.TypeConverter.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll</HintPath>
+     </Reference>
+     <Reference Include="System.ComponentModel">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll</HintPath>
      </Reference>
      <Reference Include="System.Console">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Console.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll</HintPath>
      </Reference>
      <Reference Include="System.Data.Common">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Data.Common.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.Contracts">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Contracts.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.Debug">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Debug.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.FileVersionInfo">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.FileVersionInfo.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.Process">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Process.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.StackTrace">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.StackTrace.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.TextWriterTraceListener">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.Tools">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Tools.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.TraceSource">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.TraceSource.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll</HintPath>
      </Reference>
      <Reference Include="System.Diagnostics.Tracing">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Tracing.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll</HintPath>
      </Reference>
      <Reference Include="System.Drawing.Primitives">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Drawing.Primitives.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll</HintPath>
      </Reference>
      <Reference Include="System.Dynamic.Runtime">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Dynamic.Runtime.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="System.Globalization.Calendars">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.Calendars.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Globalization">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll</HintPath>
      </Reference>
      <Reference Include="System.Globalization.Extensions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.Extensions.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll</HintPath>
      </Reference>
-     <Reference Include="System.IO.Compression">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Compression.dll</HintPath>
+     <Reference Include="System.Globalization">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.Compression.ZipFile">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Compression.ZipFile.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll</HintPath>
      </Reference>
-     <Reference Include="System.IO">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.dll</HintPath>
-     </Reference>
-     <Reference Include="System.IO.FileSystem">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.dll</HintPath>
+     <Reference Include="System.IO.Compression">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.FileSystem.DriveInfo">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.DriveInfo.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.FileSystem.Primitives">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.Primitives.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.FileSystem.Watcher">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.Watcher.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll</HintPath>
+     </Reference>
+     <Reference Include="System.IO.FileSystem">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.IsolatedStorage">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.IsolatedStorage.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.MemoryMappedFiles">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.MemoryMappedFiles.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.Pipes">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Pipes.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.UnmanagedMemoryStream">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.UnmanagedMemoryStream.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll</HintPath>
      </Reference>
-     <Reference Include="System.Linq">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.dll</HintPath>
+     <Reference Include="System.IO">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll</HintPath>
      </Reference>
      <Reference Include="System.Linq.Expressions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Expressions.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll</HintPath>
      </Reference>
      <Reference Include="System.Linq.Parallel">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Parallel.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll</HintPath>
      </Reference>
      <Reference Include="System.Linq.Queryable">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Queryable.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Linq">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll</HintPath>
      </Reference>
      <Reference Include="System.Memory">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Memory.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.Http">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Http.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.NameResolution">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.NameResolution.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.NetworkInformation">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.NetworkInformation.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.Ping">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Ping.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.Primitives">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Primitives.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.Requests">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Requests.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.Security">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Security.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.Sockets">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Sockets.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.WebHeaderCollection">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebHeaderCollection.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.WebSockets.Client">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebSockets.Client.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll</HintPath>
      </Reference>
      <Reference Include="System.Net.WebSockets">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebSockets.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll</HintPath>
      </Reference>
      <Reference Include="System.Numerics.Vectors">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Numerics.Vectors.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll</HintPath>
      </Reference>
      <Reference Include="System.ObjectModel">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ObjectModel.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll</HintPath>
      </Reference>
      <Reference Include="System.Reflection.DispatchProxy">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.DispatchProxy.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Reflection">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Reflection.Emit">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll</HintPath>
      </Reference>
      <Reference Include="System.Reflection.Emit.ILGeneration">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.ILGeneration.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll</HintPath>
      </Reference>
      <Reference Include="System.Reflection.Emit.Lightweight">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.Lightweight.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Reflection.Emit">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll</HintPath>
      </Reference>
      <Reference Include="System.Reflection.Extensions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Extensions.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="System.Reflection.Primitives">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Primitives.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Reflection">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll</HintPath>
      </Reference>
      <Reference Include="System.Resources.Reader">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.Reader.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll</HintPath>
      </Reference>
      <Reference Include="System.Resources.ResourceManager">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.ResourceManager.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll</HintPath>
      </Reference>
      <Reference Include="System.Resources.Writer">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.Writer.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.CompilerServices.VisualC">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.CompilerServices.VisualC.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Runtime">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.Extensions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Extensions.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.Handles">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Handles.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Runtime.InteropServices">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.InteropServices.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Runtime.InteropServices">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.Numerics">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Numerics.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.Serialization.Formatters">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Formatters.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.Serialization.Json">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Json.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.Serialization.Primitives">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Primitives.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.Serialization.Xml">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Xml.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Runtime">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="System.Security.Claims">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Claims.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll</HintPath>
      </Reference>
      <Reference Include="System.Security.Cryptography.Algorithms">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Algorithms.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll</HintPath>
      </Reference>
      <Reference Include="System.Security.Cryptography.Csp">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Csp.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll</HintPath>
      </Reference>
      <Reference Include="System.Security.Cryptography.Encoding">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Encoding.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll</HintPath>
      </Reference>
      <Reference Include="System.Security.Cryptography.Primitives">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Primitives.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll</HintPath>
      </Reference>
      <Reference Include="System.Security.Cryptography.X509Certificates">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.X509Certificates.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll</HintPath>
      </Reference>
      <Reference Include="System.Security.Principal">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Principal.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll</HintPath>
      </Reference>
      <Reference Include="System.Security.SecureString">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.SecureString.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Text.Encoding">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.Encoding.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll</HintPath>
      </Reference>
      <Reference Include="System.Text.Encoding.Extensions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.Encoding.Extensions.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Text.Encoding">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll</HintPath>
      </Reference>
      <Reference Include="System.Text.RegularExpressions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.RegularExpressions.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Threading">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll</HintPath>
      </Reference>
      <Reference Include="System.Threading.Overlapped">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Overlapped.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Threading.Tasks">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll</HintPath>
      </Reference>
      <Reference Include="System.Threading.Tasks.Extensions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.Extensions.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="System.Threading.Tasks.Parallel">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.Parallel.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Threading.Tasks">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll</HintPath>
      </Reference>
      <Reference Include="System.Threading.Thread">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Thread.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll</HintPath>
      </Reference>
      <Reference Include="System.Threading.ThreadPool">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.ThreadPool.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll</HintPath>
      </Reference>
      <Reference Include="System.Threading.Timer">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Timer.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Threading">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll</HintPath>
      </Reference>
      <Reference Include="System.ValueTuple">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ValueTuple.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll</HintPath>
      </Reference>
      <Reference Include="System.Xml.ReaderWriter">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.ReaderWriter.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll</HintPath>
      </Reference>
      <Reference Include="System.Xml.XDocument">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XDocument.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Xml.XmlDocument">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XmlDocument.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Xml.XmlSerializer">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XmlSerializer.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Xml.XPath">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XPath.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll</HintPath>
      </Reference>
      <Reference Include="System.Xml.XPath.XDocument">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XPath.XDocument.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Xml.XPath">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Xml.XmlDocument">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Xml.XmlSerializer">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
-     </Reference>
-     <Reference Include="mscorlib">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\mscorlib.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
      </Reference>
      <Reference Include="System.ComponentModel.Composition">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ComponentModel.Composition.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll</HintPath>
      </Reference>
      <Reference Include="System.Core">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Core.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll</HintPath>
      </Reference>
      <Reference Include="System.Data">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Data.dll</HintPath>
-     </Reference>
-     <Reference Include="System">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll</HintPath>
      </Reference>
      <Reference Include="System.Drawing">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Drawing.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.Compression.FileSystem">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.IO.Compression.FileSystem.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll</HintPath>
      </Reference>
      <Reference Include="System.Net">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Net.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll</HintPath>
      </Reference>
      <Reference Include="System.Numerics">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Numerics.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.Serialization">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Runtime.Serialization.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll</HintPath>
      </Reference>
      <Reference Include="System.ServiceModel.Web">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ServiceModel.Web.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll</HintPath>
      </Reference>
      <Reference Include="System.Transactions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Transactions.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll</HintPath>
      </Reference>
      <Reference Include="System.Web">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Web.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll</HintPath>
      </Reference>
      <Reference Include="System.Windows">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Windows.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Xml">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll</HintPath>
      </Reference>
      <Reference Include="System.Xml.Linq">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Linq.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll</HintPath>
      </Reference>
      <Reference Include="System.Xml.Serialization">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Recorder.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Recorder.Editor.dll</HintPath>
+     <Reference Include="System.Xml">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Sequences.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Sequences.Editor.dll</HintPath>
+     <Reference Include="System">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.dll</HintPath>
+     </Reference>
+     <Reference Include="mscorlib">
+     <HintPath>/Applications/Unity/Hub/Editor/2022.3.5f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Runtime">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="com.unity.cinemachine.editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Burst.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Animation.Rigging.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Animation.Rigging.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Formats.Fbx.Runtime">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Formats.Fbx.Runtime.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Mathematics.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Formats.Fbx.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Formats.Fbx.Editor.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="PPv2URPConverters">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Recorder">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Recorder.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Animation.Rigging">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Animation.Rigging.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Sequences">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Sequences.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Burst">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.ProBuilder">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ShaderGraph.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Recorder.Base">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Recorder.Base.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.ProBuilder.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Autodesk.Fbx">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Autodesk.Fbx.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Autodesk.Fbx.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Autodesk.Fbx.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Mathematics">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Searcher.Editor">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
-     </Reference>
-     <Reference Include="Cinemachine">
-     <HintPath>C:\Users\Taras\Documents\TEST_plugins\PUN_TEST\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -1003,17 +1030,57 @@
       <Project>{6c9ca125-71b4-c5d5-c46c-753a79f87eee}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Recorder.Editor.csproj">
+      <Project>{6ccf9fda-770b-748f-6633-0824b9ffc66a}</Project>
+      <Name>Unity.Recorder.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Sequences.Editor.csproj">
+      <Project>{d410524b-39c4-49b9-3eed-9347c6a10368}</Project>
+      <Name>Unity.Sequences.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
+      <Project>{b6155a1f-339d-ea30-f3f0-f68722855f99}</Project>
+      <Name>com.unity.cinemachine.editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{d46ab828-60b8-ed94-c1d8-eb65003ce21b}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
       <Project>{2256bfb5-72e0-ac2e-c5cb-8475a98caef5}</Project>
       <Name>PhotonUnityNetworking.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Animation.Rigging.Editor.csproj">
+      <Project>{78f13f4b-13b1-5f92-47c4-9e1e6676739a}</Project>
+      <Name>Unity.Animation.Rigging.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
       <Project>{7868056a-3a99-2195-6c32-aa0d059dafc6}</Project>
       <Name>PhotonUnityNetworking.Utilities.PhotonPlayer.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.ProBuilder.AddOns.Editor.csproj">
+      <Project>{6e141e10-569d-5652-9e20-b2387ea9513d}</Project>
+      <Name>Unity.ProBuilder.AddOns.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="PunDemos.DemoSlotcarEditor.csproj">
       <Project>{e89007d9-f14a-93c6-1ef0-2e125701e3ca}</Project>
       <Name>PunDemos.DemoSlotcarEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Rider.Editor.csproj">
+      <Project>{82f3ab3c-dbcb-649c-1799-b298e65ea3fa}</Project>
+      <Name>Unity.Rider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Formats.Fbx.Runtime.csproj">
+      <Project>{67423666-d0fe-5049-754e-f18b09b8998c}</Project>
+      <Name>Unity.Formats.Fbx.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
+      <Project>{b2fbbf9a-6d61-20dc-4baf-953eb125b57b}</Project>
+      <Name>Unity.VisualScripting.Flow</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
+      <Project>{a8fa331b-367f-eb27-9fbf-77ce280660f5}</Project>
+      <Name>Unity.Mathematics.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
       <Project>{d7d3d0a0-382c-c952-acaf-bfa62a1aaf88}</Project>
@@ -1027,6 +1094,10 @@
       <Project>{da3f9174-6422-8a14-a74a-63e03a4e9539}</Project>
       <Name>PhotonUnityNetworking.Utilities.Culling.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Formats.Fbx.Editor.csproj">
+      <Project>{d8674294-5041-3c4d-43f8-e4748d3b5b7b}</Project>
+      <Name>Unity.Formats.Fbx.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Demos.csproj">
       <Project>{2b46ebe6-fb40-a9dc-ab39-a256986fcd40}</Project>
       <Name>PhotonUnityNetworking.Demos</Name>
@@ -1035,17 +1106,117 @@
       <Project>{07f1e08c-0dc7-853e-52c9-c4355b4503df}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{92894fc9-b00b-9bf9-e786-a65b7dc34784}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Recorder.csproj">
+      <Project>{f137f6e2-0fd9-c10d-9c6a-ce07b458cd60}</Project>
+      <Name>Unity.Recorder</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ProBuilder.AssetIdRemapUtility.csproj">
+      <Project>{67223809-03a5-ddbf-d67d-cc56a4a1cb22}</Project>
+      <Name>Unity.ProBuilder.AssetIdRemapUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Animation.Rigging.csproj">
+      <Project>{445797a5-7a34-346e-ef2a-4d082542ca8f}</Project>
+      <Name>Unity.Animation.Rigging</Name>
+    </ProjectReference>
     <ProjectReference Include="ParrelSync.csproj">
       <Project>{972eb962-1d32-c441-5397-6b8ac1b20f7d}</Project>
       <Name>ParrelSync</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Sequences.csproj">
+      <Project>{b33a11fe-80f6-65d9-be47-b6d661701812}</Project>
+      <Name>Unity.Sequences</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
+      <Project>{5c0c43ee-62c3-6d9f-c5ad-8f1d68f50ced}</Project>
+      <Name>Unity.PlasticSCM.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.csproj">
+      <Project>{e27b649f-9fe3-7f91-a344-355a05c789e0}</Project>
+      <Name>Unity.Burst</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ProBuilder.csproj">
+      <Project>{b726d306-5833-60cf-c239-9ac63cd38699}</Project>
+      <Name>Unity.ProBuilder</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.Editor.csproj">
+      <Project>{e7364d6a-847e-6073-3143-7b3fc8584ab0}</Project>
+      <Name>Unity.Timeline.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
+      <Project>{a8e52be5-93cb-dc3e-764a-7a1850031988}</Project>
+      <Name>Unity.VisualScripting.Shared.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Recorder.Base.csproj">
+      <Project>{3f8221b4-7e6a-44e4-0120-9bfa0ea32a07}</Project>
+      <Name>Unity.Recorder.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
+      <Project>{d0699d79-e37a-b9e6-8996-c40162e19ddb}</Project>
+      <Name>Unity.VisualScripting.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
+      <Project>{e569448f-07f2-42c8-8f07-435e5fa2a352}</Project>
+      <Name>Unity.VisualScripting.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
+      <Project>{d8c59455-0476-da66-1160-6057aaf62517}</Project>
+      <Name>Unity.VisualScripting.Flow.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
       <Project>{0d22b4ef-a9d9-03ec-40e7-8467e3913d32}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.csproj">
+      <Project>{c8261fc7-ce48-2529-9a69-0dfd32c18e2c}</Project>
+      <Name>Unity.Timeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ProBuilder.Editor.csproj">
+      <Project>{a3850fb8-3ec1-4c5d-c4ad-ed0ede102f80}</Project>
+      <Name>Unity.ProBuilder.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
+      <Project>{f4ef287c-6f3c-110b-94b8-69168b1e18f7}</Project>
+      <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Autodesk.Fbx.csproj">
+      <Project>{467a1eb3-ed3d-f948-8271-ae5af644d837}</Project>
+      <Name>Autodesk.Fbx</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
+      <Project>{aae43b35-7cef-7dcf-b579-598aff96cfce}</Project>
+      <Name>Unity.VisualScripting.State.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Autodesk.Fbx.Editor.csproj">
+      <Project>{5ab5a1f6-096d-499e-85b1-0c8c8cd21575}</Project>
+      <Name>Autodesk.Fbx.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.csproj">
+      <Project>{87043628-8496-87c3-4168-6606fc16f488}</Project>
+      <Name>Unity.Mathematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
+      <Project>{655fcb12-f2b1-e692-7e57-d187fd642b0c}</Project>
+      <Name>Unity.TextMeshPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Searcher.Editor.csproj">
+      <Project>{7d7deb77-ac52-eeef-e5c5-a15785c048f3}</Project>
+      <Name>Unity.Searcher.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.csproj">
+      <Project>{566a195c-bf7b-bc03-47f4-23793a04c804}</Project>
+      <Name>Unity.VisualScripting.State</Name>
+    </ProjectReference>
     <ProjectReference Include="PunDemos.DemoHubEditor.csproj">
       <Project>{89e84f38-8e9c-dbf0-9c6f-385c9c7fd6dc}</Project>
       <Name>PunDemos.DemoHubEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Cinemachine.csproj">
+      <Project>{91105d5e-5de5-0c56-cc39-84788521607c}</Project>
+      <Name>Cinemachine</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
