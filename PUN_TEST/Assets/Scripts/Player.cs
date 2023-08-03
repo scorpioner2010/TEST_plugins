@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
 using Cinemachine;
-using TMPro;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -20,7 +17,7 @@ public class Player : MonoBehaviour
 	{
 		Quaternion rotationT = transform.rotation;
 		Quaternion toT = Quaternion.FromToRotation(transform.up * 2, normal) * rotationT;
-		rotationT = Quaternion.Lerp(rotationT, toT, /*20*/speedAlign * Time.deltaTime); // speed rotation to normal
+		rotationT = Quaternion.Lerp(rotationT, toT,speedAlign * Time.deltaTime); // speed rotation to normal
 		transform.rotation = rotationT;
 	}
 
