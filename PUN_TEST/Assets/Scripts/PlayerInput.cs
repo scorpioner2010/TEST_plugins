@@ -47,20 +47,20 @@ public class PlayerInput : MonoBehaviourPun
         
         if (Input.GetKey(KeyCode.W))
         {
-            _dir += Vector3.forward;
+            _dir += transform.forward;
         }
         else if (Input.GetKey(KeyCode.S))
         {
-            _dir += Vector3.back;
+            _dir += transform.forward * -1;
         }
         
         if (Input.GetKey(KeyCode.A))
         {
-            _dir += Vector3.left;
+            _dir += transform.right * -1;
         }
         else if (Input.GetKey(KeyCode.D))
         {
-            _dir += Vector3.right;
+            _dir += transform.right;
         }
     }
 }
