@@ -135,6 +135,7 @@
      <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/FHierarchyIcons.cs" />
      <Compile Include="Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs" />
      <Compile Include="Assets/Scripts/GameplayController.cs" />
+     <Compile Include="Assets/Scripts/Earth.cs" />
      <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs" />
      <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs" />
      <Compile Include="Assets/FImpossible Creations/Shared Tools/Editor Tools/Property Attributes/FPD_PercentageAttribute.cs" />

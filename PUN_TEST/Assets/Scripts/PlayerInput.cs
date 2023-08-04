@@ -28,6 +28,7 @@ public class PlayerInput : MonoBehaviourPun
         _dir = _dir.normalized * Time.fixedDeltaTime * speedMove;
         rb.velocity = new Vector3(_dir.x, rb.velocity.y, _dir.z);
         Vector3 c = new Vector3(rb.velocity.x, 0, rb.velocity.z);
+        
         if (c.magnitude > 1f)
         {
             lastDirectionRotate = _dir;
@@ -47,20 +48,20 @@ public class PlayerInput : MonoBehaviourPun
         
         if (Input.GetKey(KeyCode.W))
         {
-            _dir += Vector3.forward;
+            _dir += transform.forward;
         }
         else if (Input.GetKey(KeyCode.S))
         {
-            _dir += Vector3.back;
+            _dir += -transform.forward;
         }
         
         if (Input.GetKey(KeyCode.A))
         {
-            _dir += Vector3.left;
+            _dir += -transform.right;
         }
         else if (Input.GetKey(KeyCode.D))
         {
-            _dir += Vector3.right;
+            _dir += transform.right;
         }
     }
 }
