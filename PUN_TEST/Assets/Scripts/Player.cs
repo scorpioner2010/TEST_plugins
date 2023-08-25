@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-	public CinemachineVirtualCamera virtualCamera;
+	public Camera camera;
 	public Rigidbody rb;
 	public float speedAlign = 10;
 	public LayerMask mask;
@@ -26,8 +26,9 @@ public class Player : MonoBehaviour
 
 	private void FixedUpdate()
 	{
-		Vector3 direction = transform.position - Earth.In.transform.position;
-		rb.AddForce(direction.normalized * gravityForce);
+		//Vector3 direction = transform.position - Earth.In.transform.position;
+		rb.AddRelativeForce (Vector3.up * gravityForce);
+		//rb.AddForce(direction.normalized * gravityForce);
 	}
 
 	private void Update()

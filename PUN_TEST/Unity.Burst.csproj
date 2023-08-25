@@ -440,7 +440,7 @@
      <HintPath>/Applications/Unity/Hub/Editor/2023.2.0b3/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Unsafe">
-     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.Unsafe.dll</HintPath>
+     <HintPath>/Users/toras/TEST_plugins/PUN_TEST/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.Unsafe.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>/Applications/Unity/Hub/Editor/2023.2.0b3/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -809,10 +809,10 @@
      <HintPath>/Applications/Unity/Hub/Editor/2023.2.0b3/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     <HintPath>/Users/toras/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     <HintPath>/Users/toras/TEST_plugins/PUN_TEST/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

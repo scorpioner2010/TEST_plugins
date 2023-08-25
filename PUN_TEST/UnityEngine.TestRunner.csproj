@@ -517,7 +517,7 @@
      <HintPath>/Applications/Unity/Hub/Editor/2023.2.0b3/Unity.app/Contents/Managed/UnityEngine/UnityEditor.XRModule.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>/Users/toras/Documents/GitHub/TEST_plugins/PUN_TEST/Library/PackageCache/com.unity.ext.nunit@2.0.5/net40/unity-custom/nunit.framework.dll</HintPath>
+     <HintPath>/Users/toras/TEST_plugins/PUN_TEST/Library/PackageCache/com.unity.ext.nunit@2.0.5/net40/unity-custom/nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>/Applications/Unity/Hub/Editor/2023.2.0b3/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>

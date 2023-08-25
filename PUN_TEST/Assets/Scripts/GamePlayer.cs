@@ -1,7 +1,5 @@
-using System;
 using Photon.Pun;
 using UnityEngine;
-using UnityEngine.Rendering;
 
 public class GamePlayer : MonoBehaviourPun
 {
@@ -92,7 +90,7 @@ public class GamePlayer : MonoBehaviourPun
     {
         Vector3 direction = _directionMove.normalized * moveSpeed * Time.fixedDeltaTime;
         body.velocity = new Vector3(direction.x, body.velocity.y, direction.z);
-        body.angularVelocity = new Vector3(0, inputRotate.x * rotateSpeed * Time.fixedDeltaTime, 0);
+        //body.angularVelocity = new Vector3(0, inputRotate.x * rotateSpeed * Time.fixedDeltaTime, 0);
     }
 
     private void Update()

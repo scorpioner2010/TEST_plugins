@@ -63,7 +63,7 @@ public class GameplayController : MonoBehaviourPun
         Vector3 place = Singleton<Places>.Instance.allPlaces[PhotonNetwork.LocalPlayer.ActorNumber - 1].transform.position + Vector3.up * 5;
         _mainPlayer = PhotonNetwork.Instantiate($"GamePlayer", place, Quaternion.identity); //create player
         Player player = _mainPlayer.GetComponent<Player>();
-        player.virtualCamera.gameObject.SetActive(true);
+        player.gameObject.SetActive(true);
         
 //        Debug.LogError("CreatePerson: "+_mainPlayer);
         
