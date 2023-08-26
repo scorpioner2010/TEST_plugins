@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using Cinemachine;
 using UnityEngine;
 
@@ -13,6 +14,7 @@ public class Player : MonoBehaviour
 	private void Awake()
 	{
 		rb = GetComponent<Rigidbody>();
+		camera = GetComponentsInChildren<Camera>().First();
 	}
 
 	private void AlignKart(Vector3 normal)
@@ -26,9 +28,8 @@ public class Player : MonoBehaviour
 
 	private void FixedUpdate()
 	{
-		//Vector3 direction = transform.position - Earth.In.transform.position;
-		rb.AddRelativeForce (Vector3.up * gravityForce);
-		//rb.AddForce(direction.normalized * gravityForce);
+		Vector3 f = GameObject.Find("Map").transform.position - transform.position;
+		rb.AddForce(f.normalized * gravityForce);
 	}
 
 	private void Update()
@@ -36,6 +37,12 @@ public class Player : MonoBehaviour
 		if (Physics.Raycast(transform.position, -transform.up, out RaycastHit hit, Mathf.Infinity, ~mask))
 		{
 			AlignKart(hit.normal);
+		}
+
+
+		if (Input.GetMouseButtonDown(2))
+		{
+			
 		}
 	}
 }

@@ -24,6 +24,7 @@ public class PlayerAnimator : MonoBehaviourPun
 
     private void AnimationSelector()
     {
+        return;
         AnimationState animationState = _input.isMove ? AnimationState.Run : AnimationState.Idle;
 
         if (lastAnim != animationState)
